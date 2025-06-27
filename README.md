@@ -28,7 +28,7 @@ However, we intend for these to be printed at 20% scale.
 Please see the 3mf files for correct printing orientation.
 
 ## Assembly Instructions
-An assembly guide will be release at a later date (as of 2025-06-27).
+An assembly guide will be released at a later date (as of 2025-06-27).
 
 The recommended procedure is:
 
