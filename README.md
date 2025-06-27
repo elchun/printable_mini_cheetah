@@ -1,6 +1,6 @@
 # Printable Mini Cheetah Model
 
-This is a 3D printable version of the [MIT biomimetic robotics lab](https://biomimetics.mit.edu/) mini cheetah.
+This is a 3D printable version of the [MIT Biomimetic Robotics Lab](https://biomimetics.mit.edu/) mini cheetah.
 
 It is based on the original cad but simplified for ease of printing.
 
